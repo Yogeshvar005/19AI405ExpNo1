@@ -230,7 +230,7 @@ print(agent.performance)
 
 <h3>OUTPUT: </h3>
 
-![OUTPUT](/FAiOP01.png)
+![FAiOP01](https://github.com/Yogeshvar005/19AI405ExpNo1/assets/113497367/8df1fe50-f71e-4cd2-9cf6-0bbf5a4372c3)
 
 <h3>RESULT: </h3>
 
